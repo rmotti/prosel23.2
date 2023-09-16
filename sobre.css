@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+body{
+    background-color:#fff;
+    max-width:min-content;
+    max-height: min-content;
+    display: flex;
+    flex-direction: column;
+    padding-left: 35%;
+    padding-top: 4%;
+    
+}
+
+span{
+    background-color: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    padding: 60px 60px 60px;
+    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
